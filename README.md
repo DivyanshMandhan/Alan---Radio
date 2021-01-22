@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Description
+Just a radio app with a voice assistant.
+
+[![s-1.png](https://i.postimg.cc/wjcvxyvp/s-1.png)](https://postimg.cc/NKFYp0mJ)
+[![s-6.png](https://i.postimg.cc/25t3gpyb/s-6.png)](https://postimg.cc/CZjFfQjS)
